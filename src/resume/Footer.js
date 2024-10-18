@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className="mt-8 p-4 bg-gray-800 text-white text-center">
-      <p>© 2024 Your Name. All rights reserved.</p>
+      <p>© 2024 rutwika. All rights reserved.</p>
       <div className="flex justify-center space-x-4 mt-2">
         <a
           href="https://github.com/sairutwika" 
@@ -23,7 +23,7 @@ const Footer = () => {
           LinkedIn
         </a>
       </div>
-      <p className="text-sm">© 2024 Rutwika ❤️All rights reserved</p>
+      
     </footer>
   );
 };
